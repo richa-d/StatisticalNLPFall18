@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Richa
+   last: Deshmukh
+email: rsd352@nyu.edu
+leaderboard: R_NLP
